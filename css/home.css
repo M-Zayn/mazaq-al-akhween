@@ -1564,6 +1564,7 @@ a:hover, a:focus {
     border: none;
     background: transparent;
     font-size: 24px;
+    padding: 0 5px;
   }
   .nav-bar .icons .zx-container {
     margin: unset;
@@ -2134,3 +2135,4 @@ html[dir="ltr"] .footer .copyrights img {
   }
 }
 
+/*# sourceMappingURL=home.css.map */
