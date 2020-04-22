@@ -143,7 +143,7 @@ $(function() {
 
   // menu - search
 
-    $(".nav-bar .icons .menu-icon").on("click", function () {
+    $(".nav-list ul li:nth-of-type(1)").on("click", function () {
       $(".fixed-menu").fadeIn();
       $(".fixed-menu .menu").addClass("show");
       $(".fixed-menu .main-list").addClass("show");
